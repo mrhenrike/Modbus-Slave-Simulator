@@ -1,4 +1,4 @@
-# ModbusPal Enhanced v1.7 by @mrhenrike
+# Modbus Slave Simulator v1.7 by @mrhenrike
 ModbusPal - a Java MODBUS simulator
 - Forked by https://sourceforge.net/projects/modbuspal/
 - Changed by André Henrique (Twitter @mrhenrike / LinkedIn @mrhenrike)
